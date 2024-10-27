@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Oct 2024 14:04:54 at https://www.packdemusicas.com.br/premium/shows.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.packdemusicas.com.br/premium/shows.html -O1 "C:\Meus Sites\Premiun\premium" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:06:44	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/sertanejo/07a.png (from https://www.packdemusicas.com.br/premium/shows.html)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/01.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/02.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/03.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/06.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/05.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/04.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/09.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/08.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/img-Shows/capas/07.png 0.7 (from https://www.packdemusicas.com.br/premium/estilo.css)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/imgkaraoke/fav.png (from https://www.packdemusicas.com.br/premium/maisouvidos.html)
+14:06:45	Error: 	"Not Found" (404) at link https://www.packdemusicas.com.br/premium/script.js (from https://www.packdemusicas.com.br/premium/maisouvidos.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 518 links scanned, 505 files written (52890740 bytes overall) [52837934 bytes received at 476017 bytes/sec], 394216 bytes transferred using HTTP compression in 19 files, ratio 18%, 74.0 requests per connection
+(12 errors, 0 warnings, 0 messages)
